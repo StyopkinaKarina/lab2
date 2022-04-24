@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "purse", "ConsoleApp2\purse.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuisnessCard", "BuisnessCard\BuisnessCard.csproj", "{8544BD79-F6DE-443A-B77A-C06EBDEFCB22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCard", "CreditCard\CreditCard.csproj", "{99B2E52D-7564-4EDB-BD40-2021C9ADB67E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8544BD79-F6DE-443A-B77A-C06EBDEFCB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8544BD79-F6DE-443A-B77A-C06EBDEFCB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8544BD79-F6DE-443A-B77A-C06EBDEFCB22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B2E52D-7564-4EDB-BD40-2021C9ADB67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B2E52D-7564-4EDB-BD40-2021C9ADB67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B2E52D-7564-4EDB-BD40-2021C9ADB67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B2E52D-7564-4EDB-BD40-2021C9ADB67E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
